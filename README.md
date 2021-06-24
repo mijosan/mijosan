@@ -1,5 +1,6 @@
 ### Hi there 👋
- [![teasan's github stats](https://github-readme-stats.vercel.app/api?username=mijosan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijosan&show_icons=true&theme=radical)
+
 <!--
 **mijosan/mijosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
