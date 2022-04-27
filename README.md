@@ -1,4 +1,4 @@
-### This is a space for me to develop into ✨a web developer✨
+### 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijosan&show_icons=true&theme=radical)
 
 <!--
